@@ -21,7 +21,9 @@ From my limited understanding from the assignment, the mutations allow for more 
 
 # Artist statement
 To be honest, I'm not entirely sure what I wanted out of this project, and I don't think I can say that I met those goals as a result.
-The project was quite time consuming since I was ensuring that my code would work, but artisically speaking, I had to simplify a lot since the already enlarged canvas size did not allow for fine details.
+The project was quite time consuming since I was ensuring that my code would work, but artisically speaking, I had to simplify a lot since the already enlarged canvas size did not allow for fine details. <br/>
+What worked: I created some images given the starter code. <br/>
+What didn't work: I don't think I got the right guidance, and there was not a working code example, so I did the assignment in a way that made sense to me.
 
 ### p4-evolutionary-starter
 Credit: Adam Smith
